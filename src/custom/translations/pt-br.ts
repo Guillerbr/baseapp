@@ -1,12 +1,9 @@
-//import { LangType } from '../../translations';
-//import { nationalitiesNames } from '../../translations/nationalities';
+import { LangType } from '../../translations';
+import { nationalitiesNames } from '../../translations/nationalities';
 
-import { en as customTranslations } from '../custom/translations/en';
-import { nationalitiesNames } from './nationalities';
 
-//export const pt-br: LangType = {
+export const ptbr: LangType = {
 
-export const en = {
     'page.header.navbar.signIn': 'Cadastro',
     'page.header.navbar.trade': 'Negociar',
     'page.header.navbar.wallets': 'Carteiras',
