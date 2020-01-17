@@ -13,7 +13,7 @@ export const ptbr: LangType = {
     'page.header.navbar.profile': 'Perfil',
     'page.header.navbar.logout': 'Sair',
 
-    'page.sidebar.group.text': 'Fee Group:',
+    'page.sidebar.group.text': 'Grupo de Taxas:',
     'page.sidebar.group.value': 'Base',
 
     'page.body.trade.header.market': 'Mercado',
@@ -39,7 +39,7 @@ export const ptbr: LangType = {
     'page.body.trade.header.newOrder.content.total': 'Total',
     'page.body.trade.header.newOrder.content.available': 'Acessível',
 
-    'error.order.create.minAmount': 'O preço está muito baixo. O valor mínimo é {amount} {currency}',
+    'error.order.create.minAmount': 'O montante está muito baixo. O valor mínimo é {amount} {currency}',
     'error.order.create.minPrice': 'O preço é muito baixo. O preço mínimo é {price} {currency}',
     'error.order.create.maxPrice': 'O preço está muito alto. O preço máximo é {price} {currency}',
     'error.order.create.available': 'Saldo excedido. Acessível {available} {currency}',
@@ -55,10 +55,10 @@ export const ptbr: LangType = {
     'page.body.trade.toolBar.selectMarket': 'Selecione o Mercado',
     'page.body.trade.toolBar.highest': 'Máxima 24h',
     'page.body.trade.toolBar.volume': '24h Volume',
-    'page.body.trade.toolBar.change': 'Change',
+    'page.body.trade.toolBar.change': 'Alteração',
 
-    'page.body.trade.header.asks': 'Asks',
-    'page.body.trade.header.bids': 'Bids',
+    'page.body.trade.header.asks': 'Pedidos',
+    'page.body.trade.header.bids': 'Ofertas',
     'page.body.trade.orderbook': 'Livro de Ofertas',
     'page.body.trade.orderbook.lastMarket': 'Último preço de mercado',
     'page.body.trade.orderbook.header.price': 'Preço',
@@ -78,7 +78,7 @@ export const ptbr: LangType = {
     'page.body.trade.header.openOrders.content.total': 'Valor',
     'page.body.trade.header.openOrders.content.filled': 'Preenchidas',
 
-    'page.body.wallets.estimated_value': 'Valor estimado',
+    'page.body.wallets.estimated_value': 'Valor Estimado',
 
     'page.body.wallets.locked': 'Bloqueada',
     'page.body.wallets.balance': 'Balanço',
@@ -87,14 +87,14 @@ export const ptbr: LangType = {
     'page.body.wallets.tabs.deposit.ccy.message.address': 'Endereço de Depósito',
     'page.body.wallets.tabs.deposit.ccy.message.button': 'CÓPIA',
     'page.body.wallets.tabs.deposit.ccy.message.success': 'Endereço Copiado',
-    'page.body.wallets.tabs.deposit.ccy.message.error': 'Gerando endereço de Depósito',
+    'page.body.wallets.tabs.deposit.ccy.message.error': 'Gerando Endereço de Depósito',
 
     'page.body.wallets.tabs.deposit.fiat.message1': 'Depositar usando transferência bancária',
     'page.body.wallets.tabs.deposit.fiat.message2': 'Use as seguintes credenciais para iniciar sua transferência bancária. Seu depósito será refletido em sua conta dentro de 2 dias úteis.',
     'page.body.wallets.tabs.deposit.fiat.bankName': 'Nome do Banco',
     'page.body.wallets.tabs.deposit.fiat.accountNumber': 'Número da Conta',
     'page.body.wallets.tabs.deposit.fiat.accountName': 'Nome da Conta',
-    'page.body.wallets.tabs.deposit.fiat.phoneNumber': 'Número de telefone',
+    'page.body.wallets.tabs.deposit.fiat.phoneNumber': 'Número de Telefone',
     'page.body.wallets.tabs.deposit.fiat.referenceCode': 'Seu código de Refêrencia',
     'page.body.wallets.table.pending': 'Pendente',
     'page.body.wallets.tabs.deposit.fiat.admin': ' Para iniciar uma retirada fiduciária, entre em contato com o administrador!',
