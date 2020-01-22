@@ -621,7 +621,7 @@ export const ptbr: LangType = {
     'public.currency.doesnt_exist': 'A moeda não existe',
     'public.currency.invalid_type': 'Tipo de moeda inválido',
     'public.market.doesnt_exist': 'O mercado não existe',
-    'public.order_book.non_integer_ask_limit': 'O valor limite de solicitação enviado não pôde ser analisado no tipo nteiro',
+    'public.order_book.non_integer_ask_limit': 'O valor limite de solicitação enviado não pôde ser analisado no tipo inteiro',
     'public.order_book.invalid_ask_limit': 'Limite de pedidos inválido',
     'public.order_book.non_integer_bid_limit': 'O valor do limite de lance enviado não pôde ser analisado no tipo inteiro',
     'public.order_book.invalid_bid_limit': 'Limite de lance inválido',
