@@ -4,7 +4,11 @@
 ## And here custom: https://github.com/openware/baseapp/tree/master/src/custom/translations
 
 
-## The dependency library used to handle translations: # react-intl
+
+
+## The dependency library used to handle translations: 
+# react-intl
+
 ```bash
 $ react-intl
 ```
@@ -38,5 +42,6 @@ export type LangType = typeof en;
 export const customLanguageMap = { ru,
 
 };
+
 ```
 
