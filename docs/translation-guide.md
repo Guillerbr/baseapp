@@ -3,20 +3,22 @@
 ## Here all default translations: https://github.com/openware/baseapp/blob/master/src/translations/en.ts 
 ## And here custom: https://github.com/openware/baseapp/tree/master/src/custom/translations
 
+
+## The dependency library used to handle translations: # react-intl
 ```bash
 $ react-intl
 ```
 
-## The dependency library used to handle translations: react-intl
 
+
+
+## The translations must start in the directory: 
+### src/custom/translations/index.ts
 
 ```bash
 src/custom/translations/index.ts
 ```
 
-
-## The translations must start in the directory: 
-### src/custom/translations/index.ts
 
 ```bash
 
