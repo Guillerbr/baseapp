@@ -1,7 +1,7 @@
-#Tutorial to do native translation to multiple languages
+# Tutorial to do native translation to multiple languages
 
-##Here all default translations: https://github.com/openware/baseapp/blob/master/src/translations/en.ts 
-##And here custom: https://github.com/openware/baseapp/tree/master/src/custom/translations
+## Here all default translations: https://github.com/openware/baseapp/blob/master/src/translations/en.ts 
+## And here custom: https://github.com/openware/baseapp/tree/master/src/custom/translations
 
 ```bash
 $ react-intl
