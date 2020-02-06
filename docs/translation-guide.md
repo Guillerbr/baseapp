@@ -7,7 +7,7 @@
 $ react-intl
 ```
 
-##The dependency library used to handle translations: react-intl
+## The dependency library used to handle translations: react-intl
 
 
 ```bash
@@ -15,7 +15,8 @@ src/custom/translations/index.ts
 ```
 
 
-##The translations must start in the directory: src/custom/translations/index.ts
+## The translations must start in the directory: 
+### src/custom/translations/index.ts
 
 ```bash
 
@@ -36,3 +37,4 @@ export const customLanguageMap = { ru,
 
 };
 ```
+
