@@ -17,6 +17,8 @@ src/custom/translations/index.ts
 
 ##The translations must start in the directory: src/custom/translations/index.ts
 
+```bash
+
 import { en } from '../../translations/en';
 import { ru } from './ru';
 
@@ -33,3 +35,4 @@ export type LangType = typeof en;
 export const customLanguageMap = { ru,
 
 };
+```
