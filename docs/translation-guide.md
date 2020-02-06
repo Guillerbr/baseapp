@@ -31,7 +31,10 @@ import { ru } from './ru';
 
 //add you translation import { pt } from './pt'
 
-// tslint:disable:no-submodule-imports import localeRu from 'react-intl/locale-data/ru'; // tslint:enable
+// tslint:disable:no-submodule-imports 
+
+import localeRu from 'react-intl/locale-data/ru'; 
+// tslint:enable
 
 //add you translation import localePt from 'react-intl/locale-data/pt';
 
