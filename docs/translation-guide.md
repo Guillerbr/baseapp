@@ -48,3 +48,4 @@ export const customLanguageMap = { ru,
 
 ```
 
+Use in YARN 1.22 Version
