@@ -14,6 +14,10 @@ $ react-intl
 ```
 
 
+## By default use a .svg file for the country's flag, in 24px by 24px format
+
+## The image with the flag logo must be inserted in:
+### src/assets/images/sidebar
 
 
 ## The translations must start in the directory: 
